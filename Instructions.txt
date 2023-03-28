@@ -1,0 +1,6 @@
+Steps to run this project
+*******************************
+1.) Before running the project in a server Follow this steps
+--> Open com.list package and run both the classes as run as java application.
+2.) Configure your hibernate.cfg.xml file and create database according to that
+3.) Run the program
