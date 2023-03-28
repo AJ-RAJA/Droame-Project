@@ -22,7 +22,7 @@ public class Validation extends HttpServlet {
 		String drone = request.getParameter("shots");
 		if (fName != null && lName != null && phone != null && email != null && email != null && address != null
 				&& location != null && drone != null) {
-			f = false;
+			f = true;
 		}
 		return f;
 	}
