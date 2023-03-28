@@ -1,6 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark purple">
 	<a class="navbar-brand" href="index.jsp"><img alt=""
-		src="img/logo.jpg" class="logo"> Droame</a>
+		src="https://production-cuvette.s3.ap-south-1.amazonaws.com/company/63343c3d65fadec4acd4f7a7/logo.jpg?d=1664367905727"
+		class="logo"> Droame</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse"
 		data-target="#navbarSupportedContent"
 		aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -28,8 +29,7 @@
 						class="dropdown-item" href="darjeeling.jsp">Darjeeling</a>
 				</div></li>
 			<li class="nav-item"><a class="nav-link" href="list.jsp">
-					Site List
-			</a></li>
+					Site List </a></li>
 			<li class="nav-item"><a class="nav-link " href="AllBooking.jsp">Show
 					Booking</a></li>
 		</ul>

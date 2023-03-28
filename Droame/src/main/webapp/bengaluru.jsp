@@ -30,7 +30,9 @@
 			<h4 class="text">Some of the places to get unrealistic shots</h4>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/tmHills.jpg" alt="First slide">
+					<img class="d-block w-100"
+						src="https://media.gettyimages.com/id/1266094797/photo/the-twin-tower-rocks-at-timmappana-betta.jpg?s=612x612&w=0&k=20&c=OHmipzxxaUJrbTR7RJrnqiKHUxQVgD6Dxtu37LBzqOc="
+						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>TM Hills</h5>
 						<p>TM Hills, located in the outskirts of Bengaluru, is a
@@ -45,7 +47,8 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/Murudeshwar.jpg"
+					<img class="d-block w-100"
+						src="https://static2.tripoto.com/media/filter/tst/img/39685/Image/1663911442_beach_g426753e5e_1920.jpg"
 						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Murudeshwar</h5>
@@ -64,9 +67,11 @@
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="img/jogFalls.jpg" alt="Third slide">
+					<img class="d-block w-100"
+						src="https://images.unsplash.com/photo-1630986015223-134fbf256fb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+						alt="Third slide">
 					<div class="carousel-caption d-none d-md-block">
-						<h5>JOg Falls</h5>
+						<h5>Jog Falls</h5>
 						<p>Jog Falls is one of the most spectacular waterfalls in
 							India, located in the state of Karnataka. It is formed by the
 							Sharavathi River, cascading down from a height of 253 meters,
@@ -110,7 +115,8 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/Bnaglaore Front page.jpg"
+					<img class="d-block w-100"
+						src="https://images.pexels.com/photos/739987/pexels-photo-739987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Bangalore Palace, Bengaluru</h5>
@@ -126,24 +132,25 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/mysuruPalace.jpg"
+					<img class="d-block w-100"
+						src="https://karnatakatourism.org/wp-content/uploads/2020/06/Mysuru-Palace-banner-1920_1100.jpg"
 						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Mysuru Palace</h5>
-						<p style="color: green">Mysuru Palace, also known as the
-							Amba Vilas Palace, is a magnificent royal palace located in the
-							city of Mysuru in the southern Indian state of Karnataka. The
-							palace was originally built in the 14th century and underwent
-							multiple renovations over the centuries. It is known for its
-							stunning architecture, intricate carvings, and exquisite artwork.
-							The palace served as the residence of the Wodeyar dynasty, who
-							ruled the Kingdom of Mysore for over 500 years. Today, the palace
-							is a popular tourist destination and a symbol of the rich
-							cultural heritage of Mysuru</p>
+						<p>Mysuru Palace, also known as the Amba Vilas Palace, is a
+							magnificent royal palace located in the city of Mysuru in the
+							southern Indian state of Karnataka. The palace was originally
+							built in the 14th century and underwent multiple renovations over
+							the centuries. It is known for its stunning architecture,
+							intricate carvings, and exquisite artwork. The palace served as
+							the residence of the Wodeyar dynasty, who ruled the Kingdom of
+							Mysore for over 500 years. Today, the palace is a popular tourist
+							destination and a symbol of the rich cultural heritage of Mysuru</p>
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="img/Tungabhadra Dam.jpg"
+					<img class="d-block w-100"
+						src="https://cdn.pixabay.com/photo/2013/08/18/07/39/dam-173640_960_720.jpg"
 						alt="Third slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Tungabhadra Dam</h5>

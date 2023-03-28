@@ -29,7 +29,8 @@
 			<h4 class="text">Some of the places to get unrealistic shots</h4>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/Amber Fort.jpg"
+					<img class="d-block w-100"
+						src="https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Amber Fort</h5>
@@ -48,7 +49,8 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/Hawa Mahal.jpg"
+					<img class="d-block w-100"
+						src="https://www.pexels.com/photo/low-angle-view-of-hawa-mahal-palace-in-jaipur-india-13062114/"
 						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Hawa Mahal</h5>
@@ -95,7 +97,8 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/Amagarh Fort.jpg"
+					<img class="d-block w-100"
+						src="https://images.pexels.com/photos/10390197/pexels-photo-10390197.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Amagarh Fort</h5>
@@ -112,7 +115,9 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/night.jpg" alt="Second slide">
+					<img class="d-block w-100"
+						src="https://www.fabhotels.com/blog/wp-content/uploads/2019/02/Nahargarh-Fort.-1.jpg"
+						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Night View</h5>
 					</div>

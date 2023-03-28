@@ -29,7 +29,8 @@
 			<h4 class="text">Some of the places to get unrealistic shots</h4>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/darjeeling2.jpg"
+					<img class="d-block w-100"
+						src="https://cdn.pixabay.com/photo/2021/06/06/09/18/darjeeling-6314833_960_720.jpg"
 						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Darjeeling</h5>
@@ -49,7 +50,8 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/Mount Kanchenjunga.jpg"
+					<img class="d-block w-100"
+						src="https://cdn.pixabay.com/photo/2015/05/22/07/53/himalayas-778418_960_720.jpg"
 						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Mount Kanchenjunga</h5>
@@ -96,7 +98,8 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/tea garden.jpg"
+					<img class="d-block w-100"
+						src="https://cdn.pixabay.com/photo/2017/07/27/11/30/tea-garden-2545044_960_720.jpg"
 						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Tea Garden</h5>
@@ -113,7 +116,9 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/evening.jpg" alt="Second slide">
+					<img class="d-block w-100"
+						src="https://cdn.pixabay.com/photo/2019/11/24/05/20/darjeeling-4648605_960_720.jpg"
+						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Evening View in Darjeeling</h5>
 					</div>

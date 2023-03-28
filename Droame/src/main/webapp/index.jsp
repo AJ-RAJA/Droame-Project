@@ -28,7 +28,8 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="carousel-item active">
-					<img class="d-block w-100" src="img/Bnaglaore Front page.jpg"
+					<img class="d-block w-100"
+						src="https://images.pexels.com/photos/739987/pexels-photo-739987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 						alt="First slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Bangalore Palace, Bengaluru</h5>
@@ -44,7 +45,8 @@
 					</div>
 				</div>
 				<div class="carousel-item color-red">
-					<img class="d-block w-100" src="img/jalmahal.jpg"
+					<img class="d-block w-100"
+						src="https://images.unsplash.com/photo-1635929620316-d34cecc5639b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
 						alt="Second slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Jal Mahal, Jaipur</h5>
@@ -62,7 +64,9 @@
 					</div>
 				</div>
 				<div class="carousel-item">
-					<img class="d-block w-100" src="img/NEW DAR.jpg" alt="Third slide">
+					<img class="d-block w-100"
+						src="https://media.gettyimages.com/id/467789033/photo/city-above-the-clouds-darjeeling.jpg?s=612x612&w=0&k=20&c=bA_uGRMQPpOn49P4gSz8DjQgIIUotIG38D4ZfaaqvCA="
+						alt="Third slide">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>Darjeeling</h5>
 						<p>Darjeeling is a charming hill station located in the Indian
