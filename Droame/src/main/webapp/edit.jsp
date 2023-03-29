@@ -65,15 +65,17 @@
 					</select>
 				</div>
 				<div class="container w-50">
-					<label for="inputText">Drone Shot</label> <select name="shots"
-						id="droneshots" multiple><%=cus.getDrone()%>
+					<label for="inputText">Drone Shot</label>
+					<br> <select name="shots"
+						id="droneshots" >
+						<option selected>Choose...</option>
 						<option value="1">Spinning elevation shot</option>
 						<option value="2">Half moon bay shot</option>
 						<option value="3">Object shot</option>
 						<option value="4">180-degree shot</option>
 						<option value="5">Obstacle shot to reveal the subject</option>
 						<option value="6">Object shot with large reveal down</option>
-						<option value="7">Slow reveal out of the subject.</option>
+						<option value="7">Slow reveal out of the subject</option>
 						<option value="8">High angle shot</option>
 						<option value="9">Arc shot</option>
 					</select>
@@ -86,9 +88,5 @@
 			</div>
 		</form>
 	</div>
-
-<script>
-		new MultiSelectTag('droneshots') // id
-	</script>
 </body>
 </html>
