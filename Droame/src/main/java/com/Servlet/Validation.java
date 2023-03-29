@@ -10,7 +10,7 @@ while Booking
 */
 
 public class Validation extends HttpServlet {
-	static boolean f = true;
+	static boolean f = false;
 
 	public static boolean validate(HttpServletRequest request, HttpServletResponse response) throws IOException {
 		String fName = request.getParameter("fname");
